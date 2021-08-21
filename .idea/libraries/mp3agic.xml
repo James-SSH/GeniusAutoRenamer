@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mp3agic">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../extlib/java/mp3agic" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../extlib/java/mp3agic" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../extlib/java/mp3agic" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../extlib/java/mp3agic" recursive="false" type="SOURCES" />
+  </library>
+</component>
