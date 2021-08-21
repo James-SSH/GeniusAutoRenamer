@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ScribeJava">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../extlib/java/ScribeJava" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../extlib/java/ScribeJava" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../extlib/java/ScribeJava" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../extlib/java/ScribeJava" recursive="false" type="SOURCES" />
+  </library>
+</component>
